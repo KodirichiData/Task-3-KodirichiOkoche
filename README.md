@@ -104,6 +104,24 @@ The dataset contains transactional information from an E-commerce platform, incl
 * Data Import Documentation
 * Project README
 
+## Key Business Insights
+
+* Revenue analysis helped identify the highest-performing products contributing the most to total sales.
+
+* Payment method analysis revealed customer transaction preferences and the most frequently used payment channels.
+
+* Order status evaluation provided insight into fulfillment performance and delivery outcomes.
+
+* Referral source analysis highlighted the marketing channels generating the strongest business value.
+
+* Average order value analysis helped measure customer spending behavior across transactions.
+
+* Product-level aggregation identified products with the highest sales performance and revenue contribution.
+
+* Coupon usage analysis provided insight into customer response to promotional campaigns and discount strategies.
+
+* SQL-based filtering, grouping, and aggregation enabled the extraction of actionable business intelligence from raw transactional data.
+
 ## Author
 
 **Kodirichi Okoche (Idah)**
